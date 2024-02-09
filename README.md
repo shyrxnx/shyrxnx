@@ -20,8 +20,6 @@ I am a dedicated and passionate computer science student currently pursuing my u
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/shyrxnx"><img src="https://github-readme-stats.vercel.app/api?username=shyrxnx&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="shyrxnx's GitHub stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=shyrxnx&theme=ambient_gradient" alt="shyrxnx's GitHub stats" /></a>
 
-<a href="http://www.github.com/shyrxnx"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shyrxnx&stroke=ffffff&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/shyrxnx" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyrxnx&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shyrxnx&theme=ambient-gradient&exclude_days=Sun" alt="GitHub Streak" /></a> 
