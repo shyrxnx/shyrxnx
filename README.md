@@ -20,6 +20,6 @@ I am a dedicated and passionate computer science student currently pursuing my u
 
 <b>My GitHub Stats</b>
 
-<img src="https://github-readme-stats-2osz.vercel.app/api?username=shyrxnx&theme=ambient_gradient" alt="shyrxnx's GitHub stats"/></a>
+<img src="https://github-readme-stats-2osz-shyrines-projects.vercel.app/api?username=shyrxnx&theme=ambient_gradient" alt="shyrxnx's GitHub stats"/></a>
 
 <img src="https://github-readme-streak-stats-r63l.vercel.app?user=shyrxnx&theme=ambient-gradient&exclude_days=Sat,Sun" alt="GitHub Streak"/></a> 
