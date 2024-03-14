@@ -23,6 +23,6 @@ I am a dedicated and passionate computer science student currently pursuing my u
 
 <b>My GitHub Stats</b>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shyrxnx&show_icons=true&theme=rose)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shyrxnx&show_icons=true&theme=ambient_gradient)
 <br>
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=shyrxnx&theme=rose)](https://git.io/streak-stats)-->
