@@ -1,6 +1,6 @@
 Hi 👋 My name is Shyrine
 ========================
-I am a dedicated and passionate computer science student currently pursuing my undergraduate degree in this dynamic field. I firmly believe that the pursuit of knowledge is a lifelong endeavor, and my journey as a computer science student is just one of many chapters in my ongoing exploration. I am enthusiastic about exploring the limitless possibilities within the realm of technology and am committed to continuous learning, growth, and innovation.
+I am a dedicated and passionate computer science student currently pursuing my undergraduate degree in this field. I firmly believe that the pursuit of knowledge is a lifelong endeavor, and my journey as a computer science student is just one of many chapters in my ongoing exploration. I am enthusiastic about exploring the limitless possibilities within the realm of technology and am committed to continuous learning, growth, and innovation.
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [Shyrine Salvador](http://s)
 * ✉️  You can contact me at [shyrinesalvador@gmail.com](mailto:shyrinesalvador@gmail.com)
