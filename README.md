@@ -5,7 +5,6 @@ I am a dedicated and passionate computer science student currently pursuing my u
 * 🖥️  See my portfolio at [Shyrine Salvador](http://s)
 * ✉️  You can contact me at [shyrinesalvador@gmail.com](mailto:shyrinesalvador@gmail.com)
 * 🚀  I'm currently working on [RENAISSANCE](http://github.com/shyrxnx/renaissance_lux)
-* 🤝  I'm open to collaborating on web development projects
 
 
 ### 🌐 Socials:
