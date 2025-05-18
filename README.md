@@ -2,9 +2,9 @@ Hi, my name is Shyrine
 ========================
 I am a dedicated and passionate computer science student currently pursuing my undergraduate degree in this field. I firmly believe that the pursuit of knowledge is a lifelong endeavor, and my journey as a computer science student is just one of many chapters in my ongoing exploration. I am enthusiastic about exploring the limitless possibilities within the realm of technology and am committed to continuous learning, growth, and innovation.
 * 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [Shyrine Salvador](http://s)
+* 🖥️  See my portfolio at [Shyrine Salvador](https://main--soft-squirrel-0bfe6f.netlify.app/)
 * ✉️  You can contact me at [shyrinesalvador@gmail.com](mailto:shyrinesalvador@gmail.com)
-* 🚀  I'm currently working on [RENAISSANCE](http://github.com/shyrxnx/renaissance_lux)
+* 🚀  I'm currently working on [track-it-frontend](https://github.com/shyrxnx/track-it-frontend)
 
 
 ### 🌐 Socials:
