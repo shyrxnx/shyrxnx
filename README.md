@@ -1,6 +1,6 @@
 Hi, my name is Shyrine
 ========================
-I am a dedicated and passionate computer science student currently pursuing my undergraduate degree in this field. I believe that learning never stops, and every challenge, discovery, and new concept is another step in my journey. I am enthusiastic about exploring the limitless possibilities within the realm of technology, and I am constantly driven to expand my knowledge, improve my skills, and contribute to innovation in meaningful ways.
+I believe that learning never stops, and every challenge, discovery, and new concept is another step in my journey. I am enthusiastic about exploring the limitless possibilities within the realm of technology, and I am constantly driven to expand my knowledge, improve my skills, and contribute to innovation in meaningful ways.
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [Shyrine Salvador](https://main--soft-squirrel-0bfe6f.netlify.app/)
 * ✉️  You can contact me at [shyrinesalvador@gmail.com](mailto:shyrinesalvador@gmail.com)
